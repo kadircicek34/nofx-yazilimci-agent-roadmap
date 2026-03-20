@@ -34,3 +34,19 @@
 - `docs/research/AI-Trader-Analysis-Report.md` (98688 bytes)
 - `web/package-lock.json` (313997 bytes)
 - `web/src/i18n/translations.ts` (189696 bytes)
+
+## Omitted workflow files (GitHub workflow scope not available in MCP token)
+
+- `.github/workflows/README.md`
+- `.github/workflows/docker-build.yml`
+- `.github/workflows/pr-checks-comment.yml`
+- `.github/workflows/pr-checks-run.yml`
+- `.github/workflows/pr-checks.yml`
+- `.github/workflows/pr-docker-check.yml`
+- `.github/workflows/pr-docker-compose-healthcheck.yml`
+- `.github/workflows/pr-go-test-coverage.yml`
+- `.github/workflows/pr-template-suggester.yml`
+- `.github/workflows/scripts/calculate_coverage.py`
+- `.github/workflows/scripts/comment_pr.py`
+- `.github/workflows/scripts/requirements.txt`
+- `.github/workflows/test.yml`
